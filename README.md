@@ -164,4 +164,4 @@ Identifies high borrowing nations (Bottom 10 based on Net Borrowing/Lending).
 ## 🔹 Author  
 👤 Pranav Kapoor  
 
-Data Automation | Analytics | Investment Intelligence  
+Data Analyst   
