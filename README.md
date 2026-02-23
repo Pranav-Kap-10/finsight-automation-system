@@ -158,7 +158,7 @@ Identifies high borrowing nations (Bottom 10 based on Net Borrowing/Lending).
 
 ## 🔹 Screenshots  
 
-![Dashboard Overview](Dashboard/Screenshot/Screenshot 2026-02023 230408.png) 
+![Dashboard Screenshot](Dashboard/Screenshot/Dashboard_screenshot.png)
 ---
 
 ## 🔹 Author  
